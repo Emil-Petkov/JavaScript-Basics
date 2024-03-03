@@ -16,6 +16,4 @@ function worldRecord(input) {
     }
 }
 
-worldRecord((["55555.67",
-    "3017",
-    "5.03"]));
+worldRecord((["55555.67","3017","5.03"]));
