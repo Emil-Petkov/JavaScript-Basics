@@ -5,6 +5,7 @@
 
 
 
+
 function toyShop(input) {
     let tripPrice = Number(input[0]);
     let nPuzzles = Number(input[1]);
