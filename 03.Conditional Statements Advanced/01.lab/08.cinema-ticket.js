@@ -4,13 +4,13 @@ function cinemaTicket(input) {
     let total = 0;
 
     let twelveDollars = ['Monday', 'Tuesday', 'Friday',];
-    let forteenDollars = ['Wednesday', 'Thursday',];
+    let fourteenDollars = ['Wednesday', 'Thursday',];
     let sixteenDollars = ['Saturday', 'Sunday',];
 
     if (twelveDollars.includes(dayOfWeek)) {
         total = 12;
 
-    } else if (forteenDollars.includes(dayOfWeek)) {
+    } else if (fourteenDollars.includes(dayOfWeek)) {
         total = 14;
 
     } else if (sixteenDollars.includes(dayOfWeek)) {
