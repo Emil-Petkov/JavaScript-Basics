@@ -1,26 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 function solve(input) {
     let city = input[0];
     let sales = Number(input[1]);
